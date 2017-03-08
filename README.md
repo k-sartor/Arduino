@@ -1,1 +1,1 @@
-# Arduino
+Demonstration files from a lecture about the Arduino
